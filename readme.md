@@ -1,4 +1,4 @@
-#Solar System
+# Solar System
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
